@@ -1,1 +1,1 @@
-# AI101
+# Earthquake prediction model using Python
